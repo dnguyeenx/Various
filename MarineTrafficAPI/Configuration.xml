@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<HostName>localhost</HostName>
+<HostIP>127.0.0.1</HostIP> <!-- extend 94.100.240.58 prd / 57 dev -->
+<CSVFilePath>/Artifact</CSVFilePath>
+<API_KEY>ef54b62cc14acab9a992f4d85fb1ae231c9d7d20</API_KEY> 
+<Periode>hourly</Periode> <!--- hourly or daily -->
+<FromDate>2018-10-20</FromDate> <!--- YYYY-MM-DD -->
+<ToDate>2018-10-22</ToDate> <!--- YYYY-MM-DD -->
+<Protocol>csv</Protocol> <!---  xml, csv, json -->
+<MMSI>269057489,269057500</MMSI> <!---  using comma for multi mmsi -->
+</configuration>
